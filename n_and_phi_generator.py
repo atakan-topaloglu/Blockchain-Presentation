@@ -22,8 +22,7 @@ def calculate_n_and_phi():
 
     n = first_prime * second_prime
     phi = (first_prime-1) * (second_prime-1)
-    n_and_phi = (n, phi)
-    return n_and_phi
+    return n, phi
 
 
 # n1, phi1 = calculate_n_and_phi()
