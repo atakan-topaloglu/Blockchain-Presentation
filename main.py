@@ -11,6 +11,7 @@ from encrypter_decrypter import encrypt, decrypt
 # Some useful four digit prime numbers:
 # 8999, 1949, 9467, 2003, 3347
 
+
 def main():
 
     keys_generated = False
