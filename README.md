@@ -1,8 +1,7 @@
 
 # Blockchain Presentation
 
-This project aims to present the basics of Diffie-Hellman Key Exchange, RSA and SHA-256 to motive 
-and introduce Blockchain.
+This project aims to present the basics of RSA and SHA-256 to motivate and introduce Blockchain.
 
 
 ## File Descriptions
